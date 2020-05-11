@@ -1,0 +1,20 @@
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.csprojAssemblyReference.cache
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.Form1.resources
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.Properties.Resources.resources
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.csproj.GenerateResource.cache
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.csproj.CoreCompileInputs.cache
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\bin\Debug\pass_gener8.exe.config
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\bin\Debug\pass_gener8.exe
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\bin\Debug\pass_gener8.pdb
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.exe
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.pdb
+F:\program\praktikum dkp\modul 8\pass-gener8er-kel51\pass_gener8\bin\Debug\pass_gener8.exe.config
+F:\program\praktikum dkp\modul 8\pass-gener8er-kel51\pass_gener8\bin\Debug\pass_gener8.exe
+F:\program\praktikum dkp\modul 8\pass-gener8er-kel51\pass_gener8\bin\Debug\pass_gener8.pdb
+F:\program\praktikum dkp\modul 8\pass-gener8er-kel51\pass_gener8\obj\Debug\pass_gener8.csprojAssemblyReference.cache
+F:\program\praktikum dkp\modul 8\pass-gener8er-kel51\pass_gener8\obj\Debug\pass_gener8.Properties.Resources.resources
+F:\program\praktikum dkp\modul 8\pass-gener8er-kel51\pass_gener8\obj\Debug\pass_gener8.csproj.GenerateResource.cache
+F:\program\praktikum dkp\modul 8\pass-gener8er-kel51\pass_gener8\obj\Debug\pass_gener8.csproj.CoreCompileInputs.cache
+F:\program\praktikum dkp\modul 8\pass-gener8er-kel51\pass_gener8\obj\Debug\pass_gener8.exe
+F:\program\praktikum dkp\modul 8\pass-gener8er-kel51\pass_gener8\obj\Debug\pass_gener8.pdb
+F:\program\praktikum dkp\modul 8\pass-gener8er-kel51\pass_gener8\obj\Debug\pass_gener8_kel51.Form1.resources

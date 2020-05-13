@@ -19,29 +19,29 @@ namespace pass_gener8_kel51
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string randomstring = string.Empty;
+            string randomchars = string.Empty;
             char[] array = "0123456789qwertyuiopasdfghjklmnbvcxzQWERTYUIOPLKJHGFDSAMNBVCXZ".ToCharArray();
             Random r1 = new Random();
-            int getangka = Convert.ToInt32(textBox1.Text);
-            for(int i = 0; i < getangka; i++)
+            int getangka = Convert.ToInt32(numericUpDown1.Text);
+            for (int i = 0; i < getangka; i++)
             {
                 int point = r1.Next(1, array.Length);
-                if (!randomstring.Contains(array.GetValue(point).ToString()))
-                    randomstring += array.GetValue(point);
+                if (!randomchars.Contains(array.GetValue(point).ToString()))
+                    randomchars += array.GetValue(point);
                 else
                     i--;
             }
-            textBox2.Text = randomstring;
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
+            textBox1.Text = randomchars;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(textBox2.Text);
+            Clipboard.SetText(textBox1.Text);
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

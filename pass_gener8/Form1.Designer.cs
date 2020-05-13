@@ -1,4 +1,4 @@
-﻿namespace pass_gener8_kel51
+﻿namespace TA_PDKP_PASS_GENER8
 {
     partial class Form1
     {

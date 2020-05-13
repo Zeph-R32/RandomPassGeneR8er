@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace pass_gener8_kel51.Properties
+namespace TA_PDKP_PASS_GENER8.Properties
 {
 
 

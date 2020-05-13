@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace pass_gener8_kel51
+namespace TA_PDKP_PASS_GENER8
 {
     public partial class Form1 : Form
     {
@@ -20,6 +20,8 @@ namespace pass_gener8_kel51
         private void button1_Click(object sender, EventArgs e)
         {
             string randomchars = string.Empty;
+
+            //karakter yang digunakan untuk password
             char[] array = "0123456789qwertyuiopasdfghjklmnbvcxzQWERTYUIOPLKJHGFDSAMNBVCXZ".ToCharArray();
             Random r1 = new Random();
             int getangka = Convert.ToInt32(numericUpDown1.Text);

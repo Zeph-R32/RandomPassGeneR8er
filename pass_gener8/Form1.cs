@@ -49,7 +49,7 @@ namespace TA_PDKP_PASS_GENER8
             "</head><body style=\"background-color:black;\">" +
             "<iframe width=\"480\" height=\"190\" src=\"{0}\"" +
             "frameborder = \"0\" allow = \"autoplay; encrypted-media\" allowfullscreen></iframe>" +
-            "</body></html>";
+            "</body></html>"; 
             var url = "https://www.youtube.com/embed/w0HTnLs3ZSs";
             this.webBrowser1.DocumentText = string.Format(embed, url);
         }

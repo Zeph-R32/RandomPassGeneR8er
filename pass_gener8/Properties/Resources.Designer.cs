@@ -63,6 +63,16 @@ namespace pass_gener8.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap code_coder_codes_coding {
+            get {
+                object obj = ResourceManager.GetObject("code-coder-codes-coding", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap key_icon {
             get {
                 object obj = ResourceManager.GetObject("key-icon", resourceCulture);

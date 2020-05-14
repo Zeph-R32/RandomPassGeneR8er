@@ -92,5 +92,8 @@
   <ItemGroup>
     <None Include="Resources\key-icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\code-coder-codes-coding.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

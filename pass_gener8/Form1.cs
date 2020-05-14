@@ -33,17 +33,25 @@ namespace TA_PDKP_PASS_GENER8
                 else
                     i--;
             }
-            textBox1.Text = randomchars;
+            textBox1.Text = randomchars; //menampilkan password baru
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(textBox1.Text);
+            Clipboard.SetText(textBox1.Text); //mengkopi password ke clipboard
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        protected override void OnLoad(EventArgs e)
         {
-
+            base.OnLoad(e);
+            var embed = "<html><head>" +
+            "<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"/>" +
+            "</head><body style=\"background-color:black;\">" +
+            "<iframe width=\"480\" height=\"190\" src=\"{0}\"" +
+            "frameborder = \"0\" allow = \"autoplay; encrypted-media\" allowfullscreen></iframe>" +
+            "</body></html>";
+            var url = "https://www.youtube.com/embed/w0HTnLs3ZSs";
+            this.webBrowser1.DocumentText = string.Format(embed, url);
         }
     }
 }

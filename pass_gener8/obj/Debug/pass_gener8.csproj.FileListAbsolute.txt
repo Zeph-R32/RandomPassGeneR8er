@@ -22,10 +22,10 @@ C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\bin\Debug\pass
 C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\bin\Debug\pass_gener8.exe
 C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\bin\Debug\pass_gener8.pdb
 C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\obj\Debug\pass_gener8.csprojAssemblyReference.cache
-C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\obj\Debug\pass_gener8_kel51.Form1.resources
 C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\obj\Debug\pass_gener8.Form2.resources
 C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\obj\Debug\pass_gener8.Properties.Resources.resources
 C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\obj\Debug\pass_gener8.csproj.GenerateResource.cache
 C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\obj\Debug\pass_gener8.csproj.CoreCompileInputs.cache
 C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\obj\Debug\pass_gener8.exe
 C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\obj\Debug\pass_gener8.pdb
+C:\Users\Anandito\Documents\GitHub\RandomPassGeneR8er\pass_gener8\obj\Debug\TA_PDKP_PASS_GENER8.Form1.resources
